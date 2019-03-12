@@ -3,9 +3,6 @@ Google Play Music Player
 
 This is a "wrapper" (it's really just a super simplistic browser) for Google Play Music. As Google offers no official application for Linux and other current solutions rely on electron, this is a nice, low-resource alternative.
 
-This application was "forked" from https://github.com/mintsuki/discord-player
-Again, it's just a browser so all I did was replace URLs and strings.
-
 ### Build Dependencies
 
 #### Debian & Ubuntu
@@ -59,5 +56,3 @@ To install it run:
     make install
 
 (or `sudo make install` if you need admin privileges)
-
-##### Please support mintsuki, the person I more or less copied this from, link to his repository above!
